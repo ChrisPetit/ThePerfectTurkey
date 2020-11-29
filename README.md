@@ -11,6 +11,14 @@ Invoke-RestMethod https://theperfectturkey.azurewebsites.net/api/CookThePerfectT
 
 or open the link in your browser...
 
+## How to run this
+
+You can run this using either [Visual Studio](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio), [Visual Studio ](https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-csharp)Code or your C# IDE of choice...
+
+Clone the repo, open the *.sln file and choose build. Then you can run it...(F5 in Visual Studio). If you want, you can also publish it to an Azure Function App, wich I did, check the link above.
+
+
+
 
 ## The Challenge
 
