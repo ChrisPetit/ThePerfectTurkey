@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePerfectTurkey", "ThePerfectTurkey\ThePerfectTurkey.csproj", "{6033564A-6698-45B2-B512-6CBA50852FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6033564A-6698-45B2-B512-6CBA50852FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6033564A-6698-45B2-B512-6CBA50852FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6033564A-6698-45B2-B512-6CBA50852FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6033564A-6698-45B2-B512-6CBA50852FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

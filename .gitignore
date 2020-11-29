@@ -384,3 +384,7 @@ Desktop.ini
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+.idea/.idea.ThePerfectTurkey/.idea/
+
+.idea/.idea.ThePerfectTurkey.dir/.idea/
